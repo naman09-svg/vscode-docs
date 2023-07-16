@@ -118,4 +118,4 @@ Settings Sync requires authentication against a Settings Sync server. The corres
 
 If you have any issues or feedback, please file an issue in the [VS Code Remote GitHub repo](https://github.com/microsoft/vscode-remote-release/issues). When filing an issue, include verbose logging, which you can enable by launching the VS Code Server with the `-v` flag: `code -v tunnel`.
 
-You may filter just for VS Code Server issues with the [`code-server` label](https://github.com/microsoft/vscode-remote-release/issues?q=is%3Aissue+is%3Aopen+label%3Acode-server).
+You may filter just for VS Code Server issues with the [`code-server` label](https://github.com/micromicrosoftsoft/vscode-remote-release/issues?q=is%3Aissue+is%3Aopen+label%3Acode-server).
